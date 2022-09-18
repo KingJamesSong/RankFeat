@@ -3,6 +3,8 @@ NeurIPS22 "RankFeat: Rank-1 Feature Removal for Out-of-distribution Detection"
 
 ## ID/OOD Dataset Preparation
 
+#In-Distribution (ID) dataset#
+
 ## Pre-trained Model Preparation
 
 ## Usage
