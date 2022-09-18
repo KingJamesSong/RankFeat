@@ -31,9 +31,9 @@ For more BiT pre-trained models, one can also refer to [BiT-S pre-trained famili
 
 ## OOD Evaluation Results
 
-<div align=center><img src="resnetv2.png" width="90%"/></div>
-<div align=center><img src="squeezenet_t2tvit.png" width="90%"/></div>
-<div align=center><img src="species.png" width="90%"/></div>
+<div align=center><img src="resnetv2.png" width="50%"/></div>
+<div align=center><img src="squeezenet_t2tvit.png" width="50%"/></div>
+<div align=center><img src="species.png" width="50%"/></div>
 
 
 ## Citation
