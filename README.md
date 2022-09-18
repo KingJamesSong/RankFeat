@@ -31,7 +31,7 @@ For more BiT pre-trained models, one can also refer to [BiT-S pre-trained famili
 
 Check [train_resnetv2.sh](https://github.com/KingJamesSong/RankFeat/blob/main/scripts/test_resnetv2.sh), [train_squeezenet.sh](https://github.com/KingJamesSong/RankFeat/blob/main/scripts/test_squeezenet.sh), and [train_t2tvit.sh](https://github.com/KingJamesSong/RankFeat/blob/main/scripts/test_t2tvit.sh) in the scripts folder for the specific usages on each architectures.
 
-Besides our proposed RankFeat, the previous __post hoc__ methods are also implemented here, including [MSP](https://arxiv.org/pdf/1610.02136.pdf), [ODIN](https://arxiv.org/pdf/1706.02690.pdf), [Energy](https://proceedings.neurips.cc/paper/2020/file/f5496252609c43eb8a3d147ab9b9c006-Paper.pdf), [Mahalanobis](https://proceedings.neurips.cc/paper/2018/file/abdeb6f575ac5c6676b747bca8d09cc2-Paper.pdf), [GradNorm](https://proceedings.neurips.cc/paper/2021/file/063e26c670d07bb7c4d30e6fc69fe056-Paper.pdf), and [ReAct](https://proceedings.neurips.cc/paper/2021/file/01894d6f048493d2cacde3c579c315a3-Paper.pdf). 
+Besides our proposed RankFeat, the previous *post hoc* methods are also implemented here, including [MSP](https://arxiv.org/pdf/1610.02136.pdf), [ODIN](https://arxiv.org/pdf/1706.02690.pdf), [Energy](https://proceedings.neurips.cc/paper/2020/file/f5496252609c43eb8a3d147ab9b9c006-Paper.pdf), [Mahalanobis](https://proceedings.neurips.cc/paper/2018/file/abdeb6f575ac5c6676b747bca8d09cc2-Paper.pdf), [GradNorm](https://proceedings.neurips.cc/paper/2021/file/063e26c670d07bb7c4d30e6fc69fe056-Paper.pdf), and [ReAct](https://proceedings.neurips.cc/paper/2021/file/01894d6f048493d2cacde3c579c315a3-Paper.pdf). 
 
 ## OOD Evaluation Results
 
