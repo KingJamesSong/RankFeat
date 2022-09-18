@@ -3,7 +3,7 @@ NeurIPS22 paper "RankFeat: Rank-1 Feature Removal for Out-of-distribution Detect
 
 ## ID/OOD Dataset Preparation
 
-**In-Distribution (ID) dataset.** Please download [ImageNet-1k](http://www.image-net.org/challenges/LSVRC/2012/index) and use its use the validation set as the ID set. 
+**In-Distribution (ID) dataset.** Please download [ImageNet-1k](http://www.image-net.org/challenges/LSVRC/2012/index) and use its validation set as the ID set. 
 
 **Out-of-Distribution (OOD) dataset.** For the used OOD datasets (iNaturalist, SUN, Places, and Textures), please download them from the following links:
 
