@@ -29,7 +29,8 @@ For more BiT pre-trained models, one can also refer to [BiT-S pre-trained famili
 
 ## Usage
 
-## Main Results
+## OOD Evaluation Results
+
 
 ## Citation
 
@@ -44,5 +45,5 @@ If you think the code is helpful to your research, please consider citing our pa
 }
 ```
 
-The code is built on MOS and GradNorm. If you have any questions or suggestions, please feel free to contact me via `yue.song@unitn.it`.
+The code is built based on [MOS](https://github.com/deeplearning-wisc/large_scale_ood) and [GradNorm](https://github.com/deeplearning-wisc/gradnorm_ood). If you have any questions or suggestions, please feel free to contact me via `yue.song@unitn.it`.
 
