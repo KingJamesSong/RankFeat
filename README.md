@@ -9,7 +9,7 @@ NeurIPS22 "RankFeat: Rank-1 Feature Removal for Out-of-distribution Detection"
 
 ## Main Results
 
-##Citation
+## Citation
 
 ```
 @inproceedings{song2022rankfeat,
