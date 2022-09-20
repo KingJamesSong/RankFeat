@@ -1,5 +1,5 @@
 # RankFeat
-NeurIPS22 paper "RankFeat: Rank-1 Feature Removal for Out-of-distribution Detection"
+NeurIPS22 paper "[RankFeat: Rank-1 Feature Removal for Out-of-distribution Detection](https://arxiv.org/abs/2209.08590)"
 
 ## ID/OOD Dataset Preparation
 
