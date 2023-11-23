@@ -1,5 +1,6 @@
 # RankFeat
 NeurIPS22 paper "[RankFeat: Rank-1 Feature Removal for Out-of-distribution Detection](https://arxiv.org/abs/2209.08590)"
+Expanded journal version "[RankFeat&RankWeight: Rank-1 Feature/Weight Removal for Out-of-distribution Detection](https://arxiv.org/abs/)"
 
 ## ID/OOD Dataset Preparation
 
@@ -29,15 +30,15 @@ For more BiT pre-trained models, one can also refer to [BiT-S pre-trained famili
 
 ## Usage
 
-Check [train_resnetv2.sh](https://github.com/KingJamesSong/RankFeat/blob/main/scripts/test_resnetv2.sh), [train_squeezenet.sh](https://github.com/KingJamesSong/RankFeat/blob/main/scripts/test_squeezenet.sh), and [train_t2tvit.sh](https://github.com/KingJamesSong/RankFeat/blob/main/scripts/test_t2tvit.sh) in the scripts folder for the specific usages on each architectures.
+Check [train_resnetv2.sh](https://github.com/KingJamesSong/RankFeat/blob/main/scripts/test_resnetv2.sh), [train_squeezenet.sh](https://github.com/KingJamesSong/RankFeat/blob/main/scripts/test_squeezenet.sh), and [train_t2tvit.sh](https://github.com/KingJamesSong/RankFeat/blob/main/scripts/test_t2tvit.sh) in the scripts folder for the specific usages on each architecture.
 
 Besides our proposed RankFeat, the previous *post hoc* methods are also implemented here, including [MSP](https://arxiv.org/pdf/1610.02136.pdf), [ODIN](https://arxiv.org/pdf/1706.02690.pdf), [Energy](https://proceedings.neurips.cc/paper/2020/file/f5496252609c43eb8a3d147ab9b9c006-Paper.pdf), [Mahalanobis](https://proceedings.neurips.cc/paper/2018/file/abdeb6f575ac5c6676b747bca8d09cc2-Paper.pdf), [GradNorm](https://proceedings.neurips.cc/paper/2021/file/063e26c670d07bb7c4d30e6fc69fe056-Paper.pdf), and [ReAct](https://proceedings.neurips.cc/paper/2021/file/01894d6f048493d2cacde3c579c315a3-Paper.pdf). 
 
 ## OOD Evaluation Results
 
-<div align=center><img src="resnetv2.png" width="80%"/></div>
-<div align=center><img src="squeezenet_t2tvit.png" width="80%"/></div>
-<div align=center><img src="species.png" width="80%"/></div>
+<div align=center><img src="journal_resnet.jpg" width="80%"/></div>
+<div align=center><img src="journal_t2t_sqz.jpg" width="80%"/></div>
+<div align=center><img src="journal_rankweight.jpg" width="80%"/></div>
 
 
 ## Citation
@@ -50,6 +51,12 @@ If you think the code is helpful to your research, please consider citing our pa
   author={Song, Yue and Sebe, Nicu and Wang, Wei},
   booktitle={NeurIPS},
   year={2022}
+}
+@inproceedings{song2023rankfeat,
+  title={RankFeat&RankWeight: Rank-1 Feature/Weight Removal for Out-of-distribution Detection},
+  author={Song, Yue and Sebe, Nicu and Wang, Wei},
+  booktitle={Arxiv},
+  year={2023}
 }
 ```
 
