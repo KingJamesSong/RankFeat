@@ -40,6 +40,7 @@ Besides our proposed RankFeat, the previous *post hoc* methods are also implemen
 <div align=center><img src="journal_resnet.jpg" width="80%"/></div>
 <div align=center><img src="journal_t2t_sqz.jpg" width="80%"/></div>
 <div align=center><img src="journal_rankweight.jpg" width="80%"/></div>
+<div align=center><img src="journal_species.jpg" width="80%"/></div>
 
 
 ## Citation
