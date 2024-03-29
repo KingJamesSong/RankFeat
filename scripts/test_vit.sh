@@ -7,8 +7,8 @@ CUDA_ID=$4      #CUDA index
 
 python test_ood_vit.py \
 --name test_${METHOD}_${OUT_DATA} \
---in_datadir ../LoCoOp/data/imagenet/images/val \
---out_datadir ../LoCoOp/data/${OUT_DATA} \
+--in_datadir /data/imagenet/images/val \
+--out_datadir /data/${OUT_DATA} \
 --batch ${BATCH_SIZE} \
 --logdir checkpoints/test_log \
 --score ${METHOD} \
