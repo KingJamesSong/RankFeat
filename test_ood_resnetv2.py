@@ -209,7 +209,7 @@ def iterate_data_rankfeatweight(data_loader, model, temperature):
 
     weight = model.module.body.block4[-1].conv2.weight.data
     B, C, H, W = weight.size()
-    weight = weight.squeeze()
+    weight = weight.view(B, C * H * W)
     weight_sub = power_iteration(weight.unsqueeze(0), iter=100)
     weight = weight - weight_sub.squeeze()
     weight = weight.view(B, C, H, W)
