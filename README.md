@@ -55,11 +55,12 @@ If you think the code is helpful to your research, please consider citing our pa
   booktitle={NeurIPS},
   year={2022}
 }
-@inproceedings{song2024rankfeat,
+@article{song2024rankfeatweight,
   title={RankFeat&RankWeight: Rank-1 Feature/Weight Removal for Out-of-distribution Detection},
-  author={Song, Yue and Sebe, Nicu and Wang, Wei},
-  booktitle={T-PAMI},
-  year={2023}
+  author={Song, Yue and Wang, Wei and Sebe, Nicu},
+  journal={IEEE TPAMI},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
