@@ -1,7 +1,7 @@
 # RankFeat
 NeurIPS22 paper "[RankFeat: Rank-1 Feature Removal for Out-of-distribution Detection](https://arxiv.org/abs/2209.08590)"
 
-Expanded journal version "[RankFeat&RankWeight: Rank-1 Feature/Weight Removal for Out-of-distribution Detection](https://arxiv.org/abs/)"
+Expanded T-PAMI journal "[RankFeat&RankWeight: Rank-1 Feature/Weight Removal for Out-of-distribution Detection](https://arxiv.org/abs/)"
 
 ## ID/OOD Dataset Preparation
 
@@ -55,10 +55,10 @@ If you think the code is helpful to your research, please consider citing our pa
   booktitle={NeurIPS},
   year={2022}
 }
-@inproceedings{song2023rankfeat,
+@inproceedings{song2024rankfeat,
   title={RankFeat&RankWeight: Rank-1 Feature/Weight Removal for Out-of-distribution Detection},
   author={Song, Yue and Sebe, Nicu and Wang, Wei},
-  booktitle={Arxiv},
+  booktitle={T-PAMI},
   year={2023}
 }
 ```
