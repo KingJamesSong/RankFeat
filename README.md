@@ -24,7 +24,7 @@ For SqueezeNet, it is already available in the Pytorch library. For BiT-S ResNet
 
 ```bash
 wget http://pages.cs.wisc.edu/~huangrui/finetuned_model/BiT-S-R101x1-flat-finetune.pth.tar
-wget https://github.com/yitu-opensource/T2T-ViT/releases/download/main/82.6_T2T_ViTt_24.pth.tar
+wget https://github.com/yitu-opensource/T2T-ViT/releases/download/main/82.3_T2T_ViT_24.pth.tar
 ```
 For ViT-B/16 and Swin-B, we use the pretrained model from torchvision. The download will start automatically when the test scripts are executed for the first time.
 
